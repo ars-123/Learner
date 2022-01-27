@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Reem Kufi
+Author: Khaled Hosny,Santiago Orozco
+Url: https://fonts.google.com/specimen/Reem+Kufi

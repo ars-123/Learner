@@ -1,0 +1,173 @@
+<!doctype>
+<html>
+<head><title></title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/S2.css">
+</head>
+<body>
+
+<section class="top">
+<div id="topm">
+<div><span><i class="fa fa-meetup" aria-hidden="true"></i>abc@gmail.com</span></div>
+<div id="phone"><ul>
+<li><i class="fa fa-phone" aria-hidden="true"></i></li>
+<li>+91-98765432123</li>
+</ul></div>
+<div><ul>
+<li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+<li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+<li><i class="fa fa-google" aria-hidden="true"></i></li>
+</ul></div>
+</div>
+</section>
+
+<section class="head">
+<div class="navbar">
+<div><img src="img/logo2.jpg"></div>
+<nav id="menuList">
+<a href="#">HOME</a>
+<a href="#">CONTACT US</a>
+<a href="#">SERVICES</a>
+<a href="#">FEATURES</a>
+<a href="#">ABOUT US</a>
+<a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+</nav>
+<i class="fa fa-bars" aria-hidden="true" class="menu-icon" onclick="togglemenu()"></i>
+</div>
+
+</section>
+
+<section id="brief">
+<div>
+<h1>The mElimu LMS for<b>Healthcare Industry<b></h1>
+<p>mElimu is Learning Management System(LMS) that can meet all of  you! <br>has become timimg method comliance management</p>
+<button class="butn">Read More</button>
+</div>
+</section>
+<section class="about">
+<div class="flex">
+<div class="flex-items"><i class="fa fa-empire" aria-hidden="true"></i></div>
+<div class="flex-items"><i class="fa fa-empire" aria-hidden="true"></i></div>
+<div class="flex-items"><i class="fa fa-empire" aria-hidden="true"></i></div>
+<div class="flex-items" style="border-right:none;"><i class="fa fa-empire" aria-hidden="true"></i></div>
+</div>
+<h2>Who We Are</h2>
+<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate<br> the visual form of a document or a typeface without relying on meaningful content. </p>
+<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate<br> the visual form of a document or a typeface without relying on meaningful content. </p>
+<p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate <br> the visual form of a document or a typeface without relying on meaningful content. </p>
+</section>
+
+<section class="training">
+<div><img src="img/imag.png"></div>
+<div>
+<h1>how mELimu(LMS) Meets Your<br>Healthcare Training Needs?</h1>
+<div class="content">
+<div>
+<div class="icon"><i class="fa fa-building-o" aria-hidden="true"></i><div><h2>Comliance Reporting</h2><p>Meet Increasing Patient Demand, <br>Increase Quality of Care <br>& Optimize Costs.</p></div></div>
+<div class="icon"><i class="fa fa-building-o" aria-hidden="true"></i><div><h2>Comliance Reporting</h2><p>Meet Increasing Patient Demand, <br>Increase Quality of Care <br>& Optimize Costs.</p></div></div>
+<div class="icon"><i class="fa fa-building-o" aria-hidden="true"></i><div><h2>Comliance Reporting</h2><p>Meet Increasing Patient Demand, <br>Increase Quality of Care <br>& Optimize Costs.</p></div></div>
+</div>
+
+<div>
+<div class="icon"><i class="fa fa-building-o" aria-hidden="true"></i><div><h2>Comliance Reporting</h2><p>Meet Increasing Patient Demand, <br>Increase Quality of Care <br>& Optimize Costs.</p></div></div>
+<div class="icon"><i class="fa fa-building-o" aria-hidden="true"></i><div><h2>Comliance Reporting</h2><p>Meet Increasing Patient Demand, <br>Increase Quality of Care <br>& Optimize Costs.</p></div></div>
+<div class="icon"><i class="fa fa-building-o" aria-hidden="true"></i><div><h2>Comliance Reporting</h2><p>Meet Increasing Patient Demand, <br>Increase Quality of Care <br>& Optimize Costs.</p></div></div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="online">
+<h1><center>Key Feature and Benefits for Online <br>Healthcare Software</center></h1>
+<div class="tile">
+<div class="tile-cont">
+<div  class="col"><h2>Simple To Use</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+<div class="col"><h2>Second based guidance</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+<div class="col"><h2>Affordable</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+</div>
+<div class="tile-cont">
+<div class="col"><h2>Topmost Security Checks</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+<div class="col"><h2>HPAA compilance</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+<div class="col"><h2>Video Comilance</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+</div>
+<div class="tile-cont">
+<div class="col"><h2>Gamification</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+<div class="col"> <h2>Monitoring and Reporting</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+<div class="col"><h2>Structure Comilance and certification</h2>
+<p>Our technology allows your customers to place their orders online while helping you with managing stock, accounting and placing orders.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="use">
+<h1><center><b>What make Us The best Fit for Your Healthcare LMS? </b></center></h1>
+<div class="LMS">
+<div>
+<dl>
+<dt><i class="fa fa-ban" aria-hidden="true"></i><b>cost pricing :-</b></dt><dd>Our technology allows your customers <br>to place their orders online while helping you with managing stock</dd>
+</dl><dl><dt><i class="fa fa-ban" aria-hidden="true"></i><b>cost pricing :-</b></dt><dd>Our technology allows your customers <br>to place their orders online while helping you with managing stock</dd>
+</dl><dl><dt><i class="fa fa-ban" aria-hidden="true"></i><b>cost pricing :-</b></dt><dd>Our technology allows your customers <br>to place their orders online while helping you with managing stock</dd>
+</dl>
+</div>
+<div>
+<dl>
+<dt><i class="fa fa-ban" aria-hidden="true"></i><b>cost pricing :-</b></dt><dd>Our technology allows your customers <br>to place their orders online while helping you with managing stock</dd>
+</dl><dl><dt><i class="fa fa-ban" aria-hidden="true"></i><b>cost pricing :-</b></dt><dd>Our technology allows your customers <br>to place their orders online while helping you with managing stock</dd>
+</dl><dl><dt><i class="fa fa-ban" aria-hidden="true"></i><b>cost pricing :-</b></dt><dd>Our technology allows your customers <br>to place their orders online while helping you with managing stock</dd>
+</dl>
+</div>
+</div>
+</section>
+
+<section class="refer">
+<div class="links">
+<div><img src="img/dwg.jpg"></div>
+<div><h1>Get in Touch</h1><p>UK:+44(0)20 73748061<br>US:+44(0)20 73748061<br>info@swmmadhopur.com</P></div>
+<div><h1>Connect With Us</h1><span><i class="fa fa-ambulance" aria-hidden="true"></i>
+<i class="fa fa-hospital-o" aria-hidden="true"></i><i class="fa fa-medkit" aria-hidden="true">
+</i><i class="fa fa-plus-square" aria-hidden="true"></i>
+</span></div>
+<div><h1>Help</h1>
+<p>Help center<br>
+FAQs<br>
+Privacy policy<br>
+Cookie policy<br>
+Terms of use</p></div>
+</div>
+</section>
+<footer id="foot"><div style="height=40px;"><center>All material herein © 2005–2022 Agoda Company Pte. Ltd. All Rights Reserved.</center></div></footer>
+
+<script>
+var menuList=document.getElementById("menuList");
+menuList.style.maxHeight="0px";
+function togglemenu(){
+if(menuList.style.maxHeight=="0px")
+{
+menuList.style.maxHeight="130px";
+}
+else{menuList.style.maxHeight="0px"}
+}
+
+</script>
+</body>
+</html>
+
+

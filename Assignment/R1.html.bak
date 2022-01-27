@@ -1,0 +1,182 @@
+<!doctype>
+<html>
+<head><title>LMS website</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="css/S1.css">
+</head>
+<body>
+<section id="top">
+<ul><li><i class="fa fa-facebook-square" aria-hidden="true"></i></li>
+<li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+<li><i class="fa fa-google-plus" aria-hidden="true"></i></li></ul>
+<h1>LOGISTICS MADE SIMPLE</h1>
+</section>
+
+<section id="navbar">
+<div id="logo"><img src="img/logol.png"></div>
+<nav id="menuList">
+<a href="#">Solution</a>
+<a href="#">Blog</a>
+<a href="#">Company</a>
+<a href="#">Search</a>
+<a href="#">Contact</a>
+</nav>
+<i class="fa fa-bars" aria-hidden="true" class="menu-icon" onclick="togglemenu()"></i>
+</section>
+
+<section id="home">
+<div id="cont">
+<p><h1> A SIMLE, ROBUST, & COST-EFFECTIVE</h1></p>
+<h1><mark style="background-color:blue; color:white;">LMS</mark></h1>
+<p>the background image is smaller than the element,<br> the image will repeat itself,<br> horizontally and vertically</p>
+<button id="butn">Get A Brand</button>
+</div>
+<div>
+<img src="img/img3.jpg">
+</div>
+</section>
+
+<section class="tab">
+<div id="item">
+<ul><li><i class="fa fa-cog" aria-hidden="true"></i></li>
+<li><i class="fa fa-google" aria-hidden="true"></i></li>
+<li>Remote</li></ul>
+</div>
+
+<div id="item">
+<ul><li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+<li>Automobile</li>
+</ul></div>
+
+<div id="item">
+<ul><li><<i class="fa fa-google-wallet" aria-hidden="true"></i></li>
+<li>Rocket</li>
+</ul></div>
+
+<div id="item" style="border-right:none">
+<ul><li><i class="fa fa-glide" aria-hidden="true"></i></li>
+<li> IR engine</li>
+<li><i class="fa fa-cog" aria-hidden="true"></i></li>
+</ul></div>
+</section>
+
+<section class="mid">
+<h1><center>A Globally Recognized LMS Platform</center></h1>
+<div id="mydiv">
+<div class="learning_c"><img src="img/img.jpg"><p>25+<br>Countries</p></div>
+<div class="learning_c"><img src="img/img1.jpg"><p>20+<br>Enterprises</p></div>
+<div class="learning_c"> <img src="img/img4.jpg"><p>10<br>Year Of Experience</p></div>
+<div class="learning_c"><img src="img/img3.jpg"><p>2M+<br>Learner</p></div>
+</div>
+</section>
+
+<section id="mid1">
+<h1><center>Assiting Organization in Developing<br>Customized Learning Pathways</center></h1>
+<div id="mydiv" class="center_div">
+<div><h2 style="background-color:blue; ">Cooperate learning</h2><p>Application Form LLD<br>
+Applicable application fee<br>
+FIR copy, if the license is stolen<br>
+Age and address proof documents<br>
+Form 1 and Form 1A</p></div>
+<div><h2 style="background-color:blue;">Machine learning</h2><p>Application Form LLD<br>
+Applicable application fee<br>
+FIR copy, if the license is stolen<br>
+Age and address proof documents<br>
+Form 1 and Form 1A</p></div>
+<div><h2 style="background-color:blue;">VideoLearning</h2><p>Application Form LLD<br>
+Applicable application fee<br>
+FIR copy, if the license is stolen<br>
+Age and address proof documents<br>
+Form 1 and Form 1A</p></div>
+
+
+<div><h2 style="background-color:blue;">Social Learning</h2><p>Application Form LLD<br>
+Applicable application fee<br>
+FIR copy, if the license is stolen<br>
+Age and address proof documents<br>
+Form 1 and Form 1A</p></div>
+<div><h2 style="background-color:blue;">confrence learning</h2><p>Application Form LLD<br>
+Applicable application fee<br>
+FIR copy, if the license is stolen<br>
+Age and address proof documents<br>
+Form 1 and Form 1A</p></div>
+</div>
+</section>
+
+
+<section id="mid2">
+<div id="div1"><h1><center>Learning Management Solution From MEIMU to inspire the employess</center></h1></div>
+<div  id="mydiv2">
+<ul>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>User Interface</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Library</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Finance</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Digital</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Cloud Base</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Gamifiaction</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Virtal Classroom</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Discussion</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Assignment</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Learning</li>
+<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Multi Displacement</li>
+</ul>
+<div><img src="img/img6.png"></div>
+</div>
+</section>
+
+<section id="mid3">
+<div id="div"><h1><center>Comprehensive Platform Feature</center></h1></div>
+<div id="mydiv3"><div><img src="img/img7.jpg"><h2>Relevancy</h2><p>There isn’t one simple answer to building <br>perfect employee training programs, <br>but there are a few elements that are consistently <br>present in companies with training programs.</p></div>
+<div><img src="img/img8.jpg"><h2>Creativity</h2><p>There isn’t one simple answer to building <br>perfect employee training programs, <br>but there are a few elements that are consistently <br>present in companies with training programs.</p></div>
+<div><img src="img/img9.jpg"><h2>Leadership</h2><p>There isn’t one simple answer to building <br>perfect employee training programs, <br>but there are a few elements that are consistently <br>present in companies with training programs.</p></div>
+</div></section>
+
+<section id="foot">
+<div class="menu">
+
+<div>
+<h2>Quick Link</h2>
+<p>Solution<br>Blog<br>Company<br>Search<br>Contact<br></p>
+</div>
+
+<div>
+<hr>
+<h2>INDIA(HQ)</h2>
+<p>Banglore ,Delhi<br>Solution<br></p><hr>
+<h2>JAPAN</h2>
+<p>Solution<br>Solution<br>Solution<br>Solution<br></p><hr>
+<h2>CAPETOWN</h2>
+<p>Solution<br>Solution<br></p><hr>
+<h2>USA</h2>
+<p>Solution<br>Solution<br></p>
+</div>
+
+<div>
+<hr>
+<h2>KENYA</h2>
+<p>Solution<br>Solution<br>Solution<br>Solution<br>Solution<br></p><hr>
+<h2>CHINA NETWORKING</h2>
+<p>Solution<br>Solution<br>Solution<br>Solution<br></p><br>
+<h2>DURBAN</h2>
+<p>Solution<br>Solution<br>Solution<br></p>
+</div>
+
+</div>
+</section>
+
+<script>
+var menuList=document.getElementById("menuList");
+menuList.style.maxHeight="0px";
+function togglemenu(){
+if(menuList.style.maxHeight=="0px")
+{
+menuList.style.maxHeight="200px";
+}
+else{menuList.style.maxHeight="0px"}
+}
+
+</script>
+</body>
+</html>

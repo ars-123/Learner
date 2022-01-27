@@ -1,0 +1,64 @@
+*{padding:0;
+margin:0;
+font-family:sans-serif;
+overflow:hidden;
+}
+.banner3, .banner2, .banner1, .banner4{height:100vh;position:absolute;left:0;top:0;width:100%;}
+img{
+	position:absolute;left:50%;top:50%;width:120%; transform:translate(-50%,-50%);}
+	
+.text h1{margin-bottom:40px;}
+.text p{margin-top:80px;line-height:18px;font-size:14px; }
+.text span{height:1px;width:100px;position:absolute;background:red;left:0;}
+.text{width:600px;position:absolute;top:200px;left:100px;}
+
+.banner3{
+	animation:banner3 12s linear infinite;
+	}
+	
+	.banner2{
+	animation:banner2 12s linear infinite;
+	}
+	
+	.banner1{
+	animation:banner1 12s linear infinite;
+	}
+	
+		.banner4{
+	animation:banner1 12s linear infinite;
+	}
+	
+@keyframes banner3{
+	
+	0%{visibility :visible;}
+	25%{visibility :hidden;}
+	50%{visibility :hidden;}
+	75%{visibility :hidden;}
+	100%{visibility :visible;}
+}	
+
+@keyframes banner2{
+	
+	0%{visibility :hidden;}
+	25%{visibility :hidden;}
+	50%{visibility :visible;}
+	75%{visibility :hidden;}
+	100%{visibility :hidden;}
+}	
+
+@keyframes banner1{
+	
+	0%{visibility :hidden;}
+	25%{visibility :hidden;}
+	50%{visibility :hidden;}
+	75%{visibility :visible;}
+	100%{visibility :hiddden;}
+}	
+@keyframes banner4{
+	
+	0% { visibility :hidden;}
+	25%{visibility :hidden;}
+	50%{visibility :hidden;}
+	75%{visibility :hidden;}
+	100%{visibility :visible;}
+}	

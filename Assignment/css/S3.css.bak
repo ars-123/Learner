@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
+
+
+
+
+.top{height:30px;border:solid 2px red;}
+.navbar{height:70px;border:solid 2px green;}
+.home{height:200px;border:solid 2px blue;}
+.home1{display:block;font-family:sans-serif!important;}
+
+.home-cont{
+	display:flex; justify-content:space-between;align-items:center;text-align:center;
+	margin:auto 40px;}
+.flex-cont{
+	display:flex; justify-content:center;align-items:center;text-align:center;
+	}
+img{height:100px;width:100px;    border-radius: 20px;
+
+    margin: auto 20px;}
+.butn{padding: 12px 35px;
+    margin: auto 10px;
+	border-top:solid 4px red;
+	border-bottom:solid 2px red;
+	border-left:1px gray;
+	border-right:1px gray;
+	border-radius:10px;}
+	
+span{ word-spacing: 30px;}
+ .home-cont h2{   margin: 0;color:blue;}
+  .home-cont h1{color:red;}
+   .home1 h1{color:green;}
+   .jump{float:right;}
+
+.arow{border:solid 2px;
+}
+.dbox{border:solid 1px;}
